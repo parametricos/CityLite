@@ -3,6 +3,8 @@
 
 [![CityLite by Parametricos](https://blog.parametricos.com/content/images/2021/07/Screenshot-2021-07-12-133932-1.png)](https://youtu.be/CegmjmoU-8E "CityLite by Parametricos")
 
+## Notice
+Unfortunately heremaps have deprecated the underlying APIs used in this project, rendering this concept unusable. We recommend checking out a Mapbox backed version of CityLite [here](https://github.com/parametricos/CityLite-Mapbox).
 
 ## About
 
